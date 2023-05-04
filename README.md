@@ -1,5 +1,4 @@
-# docu2
-Docu2 Ipsum
+# Docu2 Ipsum
 
 StarBucks ipsum dolor J.CO Do Not! McD ipsum dolor Wendy’s Burger King. KFC urna libero, in purus hana masa, sore wa tempura hokben.
 
