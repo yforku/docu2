@@ -50,7 +50,7 @@ export NVM_DIR="$HOME/.nvm"
 nvm ls-remote
 nvm install v18.16.0
 node -v
-npm install yarn
+npm install -g yarn
 yarn --version
 ```
 
